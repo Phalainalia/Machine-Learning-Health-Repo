@@ -20,6 +20,8 @@ All data sources can be found as specified by each of the Colabs, usually throug
 
 Each of the Colab shows the predictions, results and analysis made to identify and unfold the special characteristics and hidden informatino that the relationships of each files data could yield.
 
+Results and analysis are displayed in a variety of graphs, classifications and evaluation metrics ussualy used in the area.
+
 ---
 
 ## Methodology
@@ -39,10 +41,6 @@ The models featured in the notebook are the core of the ML area:
 - Kernels
 - Neural Networks
 - Convolutional Neural Networks
-
-### Results:
-
-Results and analysis are displayed in a variety of graphs, classifications and evaluation metrics ussualy used in the area.
 
 ---
 
